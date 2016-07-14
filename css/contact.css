@@ -1,0 +1,45 @@
+.social {
+    padding-top: 90px;
+}
+
+i {
+    margin-left: 20px;
+}
+
+i:hover {
+    color: #10b6a8;
+}
+
+form {
+    font-family: Montserrat-Regular;
+    margin-top: 30px;
+}
+
+.form-control {
+    background-color: #f8d734;
+    border: none;
+    border-radius: 0px;
+    color: #ffffff;
+}
+
+.form-control::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: #ffffff;
+}
+
+.form-control:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #ffffff;
+    opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #ffffff;
+    opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #ffffff;
+}

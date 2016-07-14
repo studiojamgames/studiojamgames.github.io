@@ -1,0 +1,29 @@
+.col-md-12 {
+    padding-top: 20px;
+}
+
+.container {
+    background-color: #22333d;
+}
+
+@font-face {
+    font-family: Retro Computer;
+    src: url("/fonts/Retro-Computer.otf") format("opentype");
+}
+
+h1 {
+    font-family: Retro Computer;
+    color: #ffffff;
+    font-size: 38px;
+}
+
+h2 {
+    font-family: Retro Computer;
+    font-size: 24;
+    color: #f8d734;
+}
+
+i {
+    color: #f8d734;
+    padding: 10px;
+}
