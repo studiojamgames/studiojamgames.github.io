@@ -23,12 +23,13 @@ body {
 h1 {
     font-family: Montserrat-SemiBold;
     color: #10b6a8;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 h2 {
     font-family: Montserrat-Regular;
     color: #515151;
+    font-size: 24px;
 }
 
 h3 {
@@ -37,7 +38,7 @@ h3 {
 
 .body-cont {
     width: 70%;
-    height: 600px;
+    height: 500px;
     margin-top: 70px;
     background-color: #ffffff;
     padding: 30px;
